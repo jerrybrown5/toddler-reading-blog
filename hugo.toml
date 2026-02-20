@@ -9,6 +9,7 @@ disableKinds = ["RSS"]
 # The new standard way Hugo handles theme parameters
 [params]
   author = "Jerry Brown"
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowPostNavLinks = true
 
