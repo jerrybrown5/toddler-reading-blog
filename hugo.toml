@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Toddler Reading Blog'
+theme = "PaperMod"
+
+# Tell Hugo to skip the broken RSS template for now
+disableKinds = ["RSS"]
+
+# The new standard way Hugo handles theme parameters
+[params]
+  author = "Jerry Brown"
+
