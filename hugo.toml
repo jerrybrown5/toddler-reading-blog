@@ -9,4 +9,14 @@ disableKinds = ["RSS"]
 # The new standard way Hugo handles theme parameters
 [params]
   author = "Jerry Brown"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+  [params.homeInfoParams]
+    Title = "Toddler Reading Blog"
+    Content = "A parent's guide to teaching young children to read — practical tips, real experiences, and what actually works."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/jerrybrown5"
 
