@@ -1,0 +1,4 @@
+<div class="milestone-box">
+  <h4>{{ .Get "title" | default "Milestones" }}</h4>
+  {{ .Inner | markdownify }}
+</div>

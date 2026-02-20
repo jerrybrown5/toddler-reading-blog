@@ -6,13 +6,19 @@ tags: ["Parenting", "Education", "Learning"]
 cover:
   image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80"
   alt: "Parent and child reading a book together"
-  caption: "Photo by [Element5 Digital](https://unsplash.com/@element5digital) on Unsplash"
+  caption: "Photo by Element5 Digital on Unsplash"
   relative: false
 ---
 
 When I set out to teach my three-year-old how to read, I quickly realized that the actual mechanics weren't the most important part of the equation. The real secret? It's all about expanding their attention span while having a genuinely fun time together.
 
 If you're thinking about diving into early reading with your toddler, here is the exact approach and pathway that worked for us.
+
+{{< stats >}}
+{{< stat number="80%" label="accuracy target — sweet spot before moving on" >}}
+{{< stat number="3" label="stages from iPad games to fluent reading" >}}
+{{< stat number="1hr" label="focused reading time built up over time" >}}
+{{< /stats >}}
 
 ## The Real Goal (Hint: It's Not Perfection)
 
@@ -23,29 +29,47 @@ Before we even looked at an alphabet, I set a few core ground rules for us:
 3. **Stretch the attention span:** The initial goal was to gradually build up to about 30 minutes of focused learning time.
 4. **Hit the 80% sweet spot:** We aimed for getting 80% of the letters and sounds correct, about 80% of the time. Trying to push for 100% mastery is the point of diminishing returns—it just leads to frustration.
 
+{{< callout type="warn" title="Avoid the perfection trap" >}}
+Pushing for 100% accuracy backfires. It creates frustration and kills motivation. The 80% rule keeps things fun and still drives real progress.
+{{< /callout >}}
+
 ## Step 1: The iPad Games Stage
 
-![A young boy sitting on a couch holding a tablet](https://source.unsplash.com/jhgXdvsnlWA/900x500 "Photo via Unsplash")
+![A young boy sitting on a couch holding a tablet](https://images.unsplash.com/photo-1639996675962-59c2befdfbf6?w=900&q=80 "Photo via Unsplash")
 
 Consistency is everything. We made this a daily habit, sitting down at roughly the same time every day to work *together* on the iPad. This wasn't about handing over a screen and walking away; it was a co-op mission.
 
 During this stage, we stuck to a single, fun game at a time that focused strictly on individual letters and sounds. We'd try to finish a level, and then we would repeat it often until we hit that 80% success rate. For a three-year-old, repeating something they are getting right is incredibly fun. They get so happy and confident when things start clicking! Of course, the moment a game actually did get boring, we changed it up immediately.
 
-**The milestones for moving on from this stage:**
-* 80% accuracy on phonetic letter sounds, 80% of the time.
-* 80% accuracy on actual letter names, 80% of the time.
-* 80% accuracy on the most common digraphs (like "ch" or "sh").
+{{< callout type="tip" title="Pro tip" >}}
+Sit *with* them — don't hand over the device and walk away. Making it a co-op activity is what keeps them engaged and builds the habit.
+{{< /callout >}}
+
+{{< milestone title="Ready to move on from the iPad stage?" >}}
+- 80% accuracy on phonetic letter sounds, 80% of the time
+- 80% accuracy on actual letter names, 80% of the time
+- 80% accuracy on the most common digraphs (like "ch" or "sh")
+{{< /milestone >}}
 
 ## Step 2: The Earliest Book Stage
 
-![Family reading a book together on the floor](https://source.unsplash.com/oK5vBV6r2Ow/900x500 "Photo via Unsplash")
+![Family reading a book together on the floor](https://images.unsplash.com/photo-1763013259096-4e09301bdec7?w=900&q=80 "Photo via Unsplash")
 
 Once the phonetic foundation was there, we moved to physical books.
 
 * **Find a "Comfort Book":** We started with Level 1 "I Can Read" books featuring characters they already loved, like Peppa Pig. We read that exact same book together until the pages practically fell off.
 * **Control the Pointing:** I highly recommend that *you* point to each word for a very long time across many sessions. I would point to each word, say it, and have them repeat it. Keep control of the pacing until they absolutely insist on pointing themselves. Even then, only hand over the "pointing privileges" as a reward for getting words right consistently.
 * **Embrace the Memorization:** At this stage, it is completely fine (and encouraged!) for them to memorize the story rather than sounding out every single word. Right now, memorizing the book gives them the *feeling* of reading fluently, which builds massive confidence.
-* **The Milestone:** Success on this step is when they can "read" their first book with 80% accuracy. This becomes their safe, go-to comfort book.
+
+{{< pullquote >}}
+Memorizing the book isn't cheating — it gives them the *feeling* of reading fluently, and that confidence is everything.
+{{< /pullquote >}}
+
+{{< milestone title="Ready to move to harder books?" >}}
+- Can "read" their first comfort book with 80% accuracy
+- Confidently asks to point to words themselves
+- Sits focused for a full session without needing breaks
+{{< /milestone >}}
 
 ## Step 3: Navigating Hard Books & Gamifying the Easy Ones
 
@@ -54,9 +78,13 @@ The underlying rule of this entire process is to **always keep everything at lea
 * **When Books Get Challenging:** You need to rotate your methods to keep them from getting frustrated.
     * **Method 1:** If they hit a wall, simply have them repeat you word-for-word to keep the story's momentum going.
     * **Method 2:** Have them guess a word before you sound it out for them. If they can't get it, sound it out slowly and have them repeat *each individual sound* of the word. Because sounding out every letter is tedious work for a toddler, it actually becomes a built-in incentive for them to try harder to recognize and guess the whole word themselves next time!
-* **The "Tomorrow Challenge" for Unfinished Books:** If they can't make it to the end of a harder book, that's completely fine! Turn it into a fun challenge—tell them you bet they can get even further tomorrow. Alternatively, you can drop back to an easier book the next day to build their confidence back up, and try the harder one again the day after. The whole point of this stage is repetition. They just need to see those same words over and over again across multiple sessions until they memorize them.
+* **The "Tomorrow Challenge" for Unfinished Books:** If they can't make it to the end of a harder book, that's completely fine! Turn it into a fun challenge—tell them you bet they can get even further tomorrow. Alternatively, you can drop back to an easier book the next day to build their confidence back up, and try the harder one again the day after.
 * **When Books Are Easy (The Speed Game):** When you rotate back to those easier Level 1 books, change the goalpost to keep it challenging. Have them read the book as fast as they can! This turns an old book into a fun, high-energy game. The only catch? They still have to pronounce every single word correctly.
 * **Rotate Similar Books:** Buy a series of similar books (like other Peppa Pig stories). This introduces new vocabulary while keeping the format familiar and safe.
+
+{{< callout type="info" title="The Speed Game" >}}
+When a book gets too easy, don't retire it — time it! Racing through a familiar book keeps the energy high and still enforces correct pronunciation.
+{{< /callout >}}
 
 ## Managing Toddler Anxiety (and Distraction)
 
@@ -67,12 +95,18 @@ Learning to read is neurologically exhausting for a tiny human. You have to minu
 * **Use the Pictures:** Make the illustrations exciting. I try to have a "picture talking time" after we finish reading the text on the left side of the page to give their brains a mini-break. Have them guess what is going to happen next, and then say, "Let's find out!"
 * **Praise the Progress:** Constantly remind them of how much progress they are making and how proud you are.
 
+{{< callout type="tip" title="Reading in the wild" >}}
+Cereal boxes, street signs, video game menus — every bit of real-world reading reinforces the same skills without feeling like a lesson.
+{{< /callout >}}
+
 ## The Secret Sauce: Why They Actually Do It
 
-![A parent and young child sharing a happy moment together](https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=900&q=80 "Photo by Jude Beck on Unsplash")
+![A parent and young child sharing a happy moment together](https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=900&q=80 "Photo via Unsplash")
 
 Why would a three-year-old willingly sit down and do this hard work every day? Ultimately, it's about the connection. They are getting uninterrupted, one-on-one attention from their parent.
 
 But a little post-learning incentive doesn't hurt, either! If my kid hit the goal for the day, they unlocked their ultimate reward: independent "fun time" on the iPad right afterward playing a game they absolutely loved, like Minecraft.
 
-At the end of the day, teaching your three-year-old to read is less about tracking academic progress and more about opening up their attention span while sharing a really positive, rewarding experience together.
+{{< pullquote >}}
+Teaching your three-year-old to read is less about tracking academic progress and more about opening up their attention span while sharing a really positive, rewarding experience together.
+{{< /pullquote >}}
