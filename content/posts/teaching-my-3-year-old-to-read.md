@@ -25,7 +25,7 @@ Before we even looked at an alphabet, I set a few core ground rules for us:
 
 ## Step 1: The iPad Games Stage
 
-![A child using an educational app on a tablet](https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=900&q=80 "Photo by Patricia Prudente on Unsplash")
+![A young boy sitting on a couch holding a tablet](https://source.unsplash.com/jhgXdvsnlWA/900x500 "Photo via Unsplash")
 
 Consistency is everything. We made this a daily habit, sitting down at roughly the same time every day to work *together* on the iPad. This wasn't about handing over a screen and walking away; it was a co-op mission.
 
@@ -38,7 +38,7 @@ During this stage, we stuck to a single, fun game at a time that focused strictl
 
 ## Step 2: The Earliest Book Stage
 
-![A colorful stack of children's picture books](https://images.unsplash.com/photo-1512820790803-83ca734da794?w=900&q=80 "Photo by Picsea on Unsplash")
+![Family reading a book together on the floor](https://source.unsplash.com/oK5vBV6r2Ow/900x500 "Photo via Unsplash")
 
 Once the phonetic foundation was there, we moved to physical books.
 
